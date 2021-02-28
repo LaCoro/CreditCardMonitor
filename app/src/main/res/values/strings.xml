@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CreditCardMonitor</string>
+    <string name="read_sms_label">Read</string>
+    <string name="no_data_message">No data yet</string>
+</resources>
